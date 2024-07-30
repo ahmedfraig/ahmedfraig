@@ -53,9 +53,9 @@
 <br>
 <div align=center>
   <img width=395 src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfraig&theme=dark" alt="ahmedfraig""/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ahmedfraig&show_icons=true&theme=dark&text_color=0097f5&locale=en" alt="ahmedfraig" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ahmedfraig&show_icons=true&theme=dark&title_color=0097fe&text_color=a6b2ba&locale=en" alt="ahmedfraig" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfraig&show_icons=true&theme=dark&text_color=0097f5&locale=en&layout=compact" alt="ahmedfraig" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfraig&show_icons=true&theme=dark&title_color=008dfe&text_color=a6b2ba&locale=en&layout=compact" alt="ahmedfraig" />
 </div>
 
 <br/><br/>
