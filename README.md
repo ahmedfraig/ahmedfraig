@@ -1,4 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmedfraig.ahmedfraig" />
+
+
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNutURRu6tn1fy2eymD9nI4KCXzRDVXwlIRA&s" alt="MasterHead" style="width: 100%; height: auto;" />
+</div>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmedfraig.ahmedfraig" alt="Visitor Badge">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=PRINT(HELLO+WORLD)!+😉;Hi,👋+I'm+Ahmed+Ismail!;" />
