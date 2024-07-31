@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNutURRu6tn1fy2eymD9nI4KCXzRDVXwlIRA&s" alt="MasterHead" style="width: 100%; height: auto;" />
 </div>
