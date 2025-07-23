@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=azure,vscode,github,figma,flutter,matlab" /><br>
-    <img src="https://skillicons.dev/icons?i=python,c,java,dart" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,dart,html,css" />
 </div>
 
 <br/>
