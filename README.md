@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=azure,vscode,github,figma,laravel,flutter,matlab,react,go" /><br>
+    <img src="https://skillicons.dev/icons?i=azure,vscode,git,github,figma,laravel,flutter,matlab,react,go" /><br>
     <img src="https://skillicons.dev/icons?i=python,c,java,dart,html,css,javascript,nodejs" />
 </div>
 
